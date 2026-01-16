@@ -271,7 +271,7 @@ const materiLink = {
 };
 
 function openPembelajaranVideo() {
-    window.open("https://youtu.be/VIDEO_KAMU", "_blank");
+    window.open("https://youtu.be/oeIy9UfU0LM?si=BOdScuOcWu9PSr0J", "_blank");
 }
 
 
@@ -602,8 +602,9 @@ function openVideo(type){
         link = "https://docs.google.com/forms/d/e/1FAIpQLSeWPrgeItqSfJR_ZNiLSpEM9jx0QK6P8ZdV4uBsOpuBqxLbew/viewform?usp=publish-editor";
     }
     else if(type === "kuis"){
-        link = "https://wayground.com/join?gc=396617";
+        link = "https://wayground.com/join/quiz/630ae6f4c7c287001f4e797b/start?studentShare=true";
     }
 
     window.open(link, "_blank");
 }
+
